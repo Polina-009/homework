@@ -1,2 +1,2 @@
-# homewirk
+# homework
 Practice
